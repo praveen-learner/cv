@@ -1,0 +1,179 @@
+body{
+   
+    background-color:#f9fffe;
+    text-align: center;
+    position: relative;
+ 
+}
+
+.middle-container{
+    margin: 100px 0;
+
+}
+
+
+.top-container{
+    background-color:#E4F9F5;
+    width: 100%;
+    height: 100%;
+}
+
+.bottom-container{
+    margin-top:20px ;
+    background-color:#E4F9F5;
+}
+
+
+
+.cloud-down{
+    position: absolute;
+    left: 20rem;
+
+}
+
+.cloud-up{
+    position: absolute;
+    right: 20rem;
+    margin-top: 30px;
+}
+h1{
+  padding-top: 50px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  font-size: 80px;
+  line-height: 2;
+    
+}
+h2{
+  font-family: 'Lobster', cursive;
+  color: #66BFBF;
+  font-weight: normal;
+  
+  
+}
+
+h3{
+    font-family: 'Lobster', cursive;
+    color: #11999E;
+    
+}
+
+p{
+    font-family: 'Lobster', cursive;
+}
+
+.intro{
+    font-family: 'Lobster', cursive;
+    color: #11999E;
+    font-size: 20px;
+    margin-top: 20px;
+    width: 30%;
+    margin: auto;
+}
+
+.hello{
+    font-family: 'Lobster', cursive;
+    color: #11999E;
+    font-size: 40px;
+    margin-top: 20px;
+    width: 30%;
+    margin: auto;
+}
+
+.hello1{
+    font-family: 'Lobster', cursive;
+    color: #11999E;
+    font-size: 40px;
+    margin-top: 100px;
+    width: 30%;
+    margin: auto;
+}
+
+.praveen{
+    border-radius: 100%;
+    width: 300px;
+    background-color: #30E3CA;
+
+}
+
+
+
+.linkedin{
+    font-family: 'Lobster', cursive;
+    color: #11999E;
+    padding-right: 100px;
+    
+}
+.twitter{
+    font-family: 'Lobster', cursive;
+    color: #11999E;
+    padding-right: 100px;
+    
+}
+.bloggily{
+    font-family: 'Lobster', cursive;
+    color: #11999E;
+    
+}
+
+.btn{
+    font-family: 'Lobster', cursive;
+    color: #11999E;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.chilly{
+    width: 25%;
+    float: left;
+    margin-right: 10px;
+}
+
+.computer{
+    width: 25%;
+    float: right;
+    margin-left: 10px;
+    border-radius: 100%;
+}
+
+hr{
+    width:10%;
+    border: 5px dotted #66BFBF;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    height: 2px;
+    padding-top: 2rem;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
